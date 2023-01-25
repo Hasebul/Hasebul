@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hasebul
 - 👀 I’m interested in  Machine learning 
-- 🌱 I’m currently learning Deep learning , Web developing 
+- 🌱 I’m currently working as a ML engineer in IQVIA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
