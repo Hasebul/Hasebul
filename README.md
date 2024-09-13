@@ -14,8 +14,7 @@ presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had 
 - [Project 3](https://github.com/username/project-3): Brief description of the project
 
 ## Personal Interests
-In my free time, I enjoy hiking and exploring new places. I am also an avid reader and love learning about new technologies and advancements in the field of Machine Learning.
+In my free time, I enjoy playing cricket and exploring new places. I am also an avid reader and love learning about new technologies and advancements in the field of Machine Learning.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or follow me on [Twitter](https://twitter.com/your-twitter-handle/) to stay updated on my latest projects and interests.
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hasebul-hasan-shawon-a618091aa/)
 Thanks for visiting my profile!
