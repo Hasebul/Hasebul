@@ -16,5 +16,5 @@ presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had 
 ## Personal Interests
 In my free time, I enjoy playing cricket and exploring new places. I am also an avid reader and love learning about new technologies and advancements in the field of Machine Learning.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hasebul-hasan-shawon-a618091aa/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hasebul-hasan-shawon-a618091aa/) or if you want to know more about me go to [my website](https://hasebul.github.io/shawon_portfolio/)
 Thanks for visiting my profile!
