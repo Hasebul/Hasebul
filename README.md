@@ -1,6 +1,6 @@
 # Hi there, I'm Md Hasebul Hasan Shawon 👋
 
-I'm Md. Hasebul Hasan Shawon, presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had the honor of serving as a part-time lecturer in the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology . Furthermore, I am actively pursuing a master's degree in the same department at BUET. 
+presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had the honor of serving as a part-time lecturer in the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology . Furthermore, I am actively pursuing a master's degree in the same department at BUET. 
 
 ## Skills and Expertise
 - Python
