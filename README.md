@@ -3,13 +3,6 @@
 presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had the honor of serving as a part-time lecturer in the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology . Furthermore, I am actively pursuing a master's degree in the same department at BUET. 
 
 ## Skills and Expertise
-- Python
-- TensorFlow
-- Keras
-- Scikit-learn
-- Natural Language Processing (NLP)
-- Cloud Computing
-- Data Visualization
 - Programming Languages: C, C++, Java, Python, Javascript, HTML, CSS
 - Database and ORM: PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - Frameworks: Tensorflow, PyTorch, Node.js, Vue.js, ReactJS Javafx, OpenGL, FastAPI
