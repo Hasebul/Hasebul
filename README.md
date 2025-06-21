@@ -9,9 +9,9 @@ presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had 
 - Tools/Software: Git, MATLAB, Latex, Pytest, Adobe XD (UI/UX Design), Wireshark, Cisco Packet Tracer, Huggingface, Docker, AWS, Alembic
 
 ## Projects
-- [Project 1](https://github.com/username/project-1): Brief description of the project
-- [Project 2](https://github.com/username/project-2): Brief description of the project
-- [Project 3](https://github.com/username/project-3): Brief description of the project
+- [ICML Accepted Paper 2025](https://mapeval.github.io/): Mapeval: A map-based evaluation of geo-spatial reasoning in foundation models
+- [COMPSAC Accepted Paper 2024]([https://github.com/username/project-2](https://ieeexplore.ieee.org/abstract/document/10633548)): GuardFL: Detection and Removal of Malicious Clients Through Majority Consensus
+- [Arxiv Paper](https://www.arxiv.org/abs/2409.05335): A Multi-Modal Deep Learning Based Approach for House Price Prediction
 
 ## Personal Interests
 In my free time, I enjoy playing cricket and exploring new places. I am also an avid reader and love learning about new technologies and advancements in the field of Machine Learning.
