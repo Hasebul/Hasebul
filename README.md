@@ -10,7 +10,7 @@ Presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had 
 
 ## Projects
 - [ICML Accepted Paper 2025](https://mapeval.github.io/): Mapeval: A map-based evaluation of geo-spatial reasoning in foundation models
-- [COMPSAC Accepted Paper 2024]([https://github.com/username/project-2](https://ieeexplore.ieee.org/abstract/document/10633548)): GuardFL: Detection and Removal of Malicious Clients Through Majority Consensus
+- [COMPSAC Accepted Paper 2024](https://ieeexplore.ieee.org/abstract/document/10633548): GuardFL: Detection and Removal of Malicious Clients Through Majority Consensus
 - [Arxiv Paper](https://www.arxiv.org/abs/2409.05335): A Multi-Modal Deep Learning Based Approach for House Price Prediction
 
 ## Personal Interests
