@@ -1,6 +1,8 @@
-# Hi there, I'm Md Hasebul Hasan Shawon 👋
+# Hi there, I'm Md Hasebul Hasan 👋
 
-Presently employed as a Machine Learning Engineer at IQVIA. Alongside, I've had the honor of serving as a part-time lecturer in the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology . Furthermore, I am actively pursuing a master's degree in the same department at BUET. 
+I am graduate student at the department of CSE at University of Texas at Arlington.
+
+Previously I employed as a Machine Learning Engineer at IQVIA. Alongside, I've had the honor of serving as a part-time lecturer in the Department of Computer Science and Engineering at Bangladesh University of Engineering and Technology . Furthermore, I am actively pursuing a master's degree in the same department at BUET. 
 
 ## Skills and Expertise
 - Programming Languages: C, C++, Java, Python, Javascript, HTML, CSS
