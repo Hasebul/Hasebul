@@ -12,6 +12,7 @@ Previously I employed as a Machine Learning Engineer at IQVIA. Alongside, I've h
 
 ## Projects
 - [ICML Accepted Paper 2025](https://mapeval.github.io/): Mapeval: A map-based evaluation of geo-spatial reasoning in foundation models
+- [EACL Accepted Paper 2026](https://github.com/Hasebul/MapAgent): MapAgent: A Hierarchical Agent for Geospatial Reasoning with Dynamic Map Tool Integration
 - [COMPSAC Accepted Paper 2024](https://ieeexplore.ieee.org/abstract/document/10633548): GuardFL: Detection and Removal of Malicious Clients Through Majority Consensus
 - [Arxiv Paper](https://www.arxiv.org/abs/2409.05335): A Multi-Modal Deep Learning Based Approach for House Price Prediction
 
