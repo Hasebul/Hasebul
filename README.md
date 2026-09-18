@@ -142,7 +142,7 @@ Bangladesh University of Engineering and Technology
 ## 🌐 Connect With Me
 
 - 🌐 **Portfolio:** [hasebulhasan.me](https://hasebul.github.io/shawon_portfolio/)
-- 💼 **LinkedIn:** [Md Hasebul Hasan Shawon](https://www.linkedin.com/in/hasebul-hasan-shawon-a618091aa/)
+- 💼 **LinkedIn:** [Md Hasebul Hasan](https://www.linkedin.com/in/hasebul-hasan-shawon-a618091aa/)
 - 📚 **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=f8HAI_MAAAAJ&hl=en)
 - 💻 **GitHub:** [@Hasebul](https://github.com/Hasebul)
 - 📧 **Email:** mdhasebul.hasan@uta.edu
